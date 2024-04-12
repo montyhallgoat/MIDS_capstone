@@ -4,4 +4,7 @@ Updating Irrigation Maps Using Landsat Images
 
 Files included:
 
-    Final Presentation
+> Final Presentation
+    
+> Data pipeline proof of concept
+    
